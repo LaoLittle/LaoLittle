@@ -1,6 +1,6 @@
-我是LaoLittle <=bt
+我是LaoLittle ~~<=bt~~
 
-喜欢发情~
+喜欢贴贴~
 
 ヾ(≧へ≦)〃
 <a href="#">
