@@ -2,7 +2,7 @@
 
 喜欢摸鱼
 
-嘻嘻
+18岁, 是学生（快19了）
 
 <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaoLittle&layout=compact&hide_border=true&hide=javascript,html,vue,css,scss">
